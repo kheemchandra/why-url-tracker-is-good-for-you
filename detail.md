@@ -18,7 +18,7 @@ After some times (hours, days, weeks etc), if you need to seach the `same query`
 ***
 🏆🏆 **Consider this real world scenario on `long run 🏃‍♂️🏃‍♂️`** 🏆🏆 <br/>
 [**Without tool**]: 😭If your `5th time` search & `1st time` search strategies are same, it can cost approx. `25 minutes` .  
-[**With tool**]:  😎While if you used [this tool](https://chrome.google.com/webstore/detail/url-tracker/aeledpmgdlojbmdllfejoefinemkhbbo), you will only spend approx. `5 minutes` over the course of `5 searches`. 
+[**With tool**]:  😎While if you use [this tool](https://chrome.google.com/webstore/detail/url-tracker/aeledpmgdlojbmdllfejoefinemkhbbo), you will only spend approx. `5 minutes` over the course of `5 searches`. 
 <br/>**Efficiency increased by 5x** times in this example.
 ***
 ## **How it is better than `bookmarking` the web-page** <br/>
